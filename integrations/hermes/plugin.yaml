@@ -1,0 +1,3 @@
+name: anti-deception-supervisor
+version: "0.1.0"
+description: Native Hermes adapter for continuous anti-deception supervision using Hermes lifecycle hooks and live runtime telemetry.
